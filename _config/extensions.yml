@@ -1,0 +1,6 @@
+---
+Name: clear-requirements-extensions
+---
+Page_Controller:
+  extensions:
+    ['RequirementsClearer']
