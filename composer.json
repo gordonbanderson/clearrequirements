@@ -1,0 +1,17 @@
+{
+	"name": "weboftalent/clearrequirements",
+	"description": "Remove all requirements with a single template call and start template afresh",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "templates","css","javascript","requirements","weboftalent"],
+	"authors": [
+		{
+			"name": "Gordon Anderson",
+			"email": "gordon.b.anderson@gmail.com",
+			"homepage": "https://github.com/gordonbanderson/weboftalent-clear-requirements",
+			"role": "Developer"
+		}
+	],
+    "support": {
+        "issues": "https://github.com/gordonbanderson/weboftalent-clear-requirements/issues"
+    }
+}
