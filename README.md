@@ -1,9 +1,9 @@
 # Mappable
-[![Build Status](https://travis-ci.org/gordonbanderson/clearrequirements.svg?branch=continuous_integration)](https://travis-ci.org/gordonbanderson/clearrequirements)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/badges/quality-score.png?b=continuous_integration)](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/?branch=continuous_integration)
-[![Code Coverage](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/badges/coverage.png?b=continuous_integration)](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/?branch=continuous_integration)
-[![Build Status](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/badges/build.png?b=continuous_integration)](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/build-status/continuous_integration)
-[![codecov.io](https://codecov.io/github/gordonbanderson/clearrequirements/coverage.svg?branch=continuous_integration)](https://codecov.io/github/gordonbanderson/clearrequirements?branch=continuous_integration)
+[![Build Status](https://travis-ci.org/gordonbanderson/clearrequirements.svg?branch=master)](https://travis-ci.org/gordonbanderson/clearrequirements)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/badges/build.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/build-status/master)
+[![codecov.io](https://codecov.io/github/gordonbanderson/clearrequirements/coverage.svg?branch=master)](https://codecov.io/github/gordonbanderson/clearrequirements?branch=master)
 
 [![Latest Stable Version](https://poser.pugx.org/weboftalent/clearrequirements/version)](https://packagist.org/packages/weboftalent/clearrequirements)
 [![Latest Unstable Version](https://poser.pugx.org/weboftalent/clearrequirements/v/unstable)](//packagist.org/packages/weboftalent/clearrequirements)
@@ -15,7 +15,7 @@
 [![Dependency Status](https://www.versioneye.com/php/weboftalent:clearrequirements/badge.svg)](https://www.versioneye.com/php/weboftalent:clearrequirements)
 [![Reference Status](https://www.versioneye.com/php/weboftalent:clearrequirements/reference_badge.svg?style=flat)](https://www.versioneye.com/php/weboftalent:clearrequirements/references)
 
-![codecov.io](https://codecov.io/github/gordonbanderson/clearrequirements/branch.svg?branch=continuous_integration)
+![codecov.io](https://codecov.io/github/gordonbanderson/clearrequirements/branch.svg?branch=master)
 
 ## Maintainers
 
