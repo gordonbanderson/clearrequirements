@@ -18,14 +18,20 @@ class RequirementsClearer extends DataExtension {
 
 		// clear the JavaScript files
 		$jsfiles = $config->get('RequirementsClearer', 'JavaScript');
-		foreach ($jsfiles as $jsfile) {
-			Requirements::block($jsfile);
-		}
+        if (!empty($jsfiles)) {
+            foreach ($jsfiles as $jsfile) {
+                Requirements::block($jsfile);
+            }
+        }
+
 
 		// clear the CSS files
 		$cssfiles = $config->get('RequirementsClearer', 'CSS');
-		foreach ($cssfiles as $cssfile) {
-			Requirements::block($cssfile);
-		}
+        if (!empty($cssfiles)) {
+            foreach ($cssfiles as $cssfile) {
+                Requirements::block($cssfile);
+            }
+        }
+
 	}
 }
