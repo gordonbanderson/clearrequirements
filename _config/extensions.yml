@@ -1,6 +1,6 @@
 ---
 Name: clear-requirements-extensions
 ---
-Page_Controller:
+PageController:
   extensions:
     ['WebOfTalent\ClearRequirements\RequirementsClearer']
