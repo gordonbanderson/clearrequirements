@@ -72,7 +72,12 @@ $ClearAllRequirements
 ## Install
 ### SS4
 ```
-composer require 'weboftalent/clearrequirements:^4'
+composer require 'weboftalent/clearrequirements'
+```
+
+### SS3
+```
+composer require 'weboftalent/clearrequirements:^1'
 ```
 
 ##TODO
