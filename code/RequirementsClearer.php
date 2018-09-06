@@ -1,5 +1,11 @@
 <?php
 
+namespace WebOfTalent\ClearRequirements;
+
+use SilverStripe\View\Requirements;
+use SilverStripe\Core\Config\Config;
+use SilverStripe\ORM\DataExtension;
+
 class RequirementsClearer extends DataExtension {
 	/**
 	 * Clear all requirements.  Call this from a template using $ClearAllRequirements

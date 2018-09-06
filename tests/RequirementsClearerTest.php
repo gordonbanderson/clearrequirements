@@ -1,4 +1,5 @@
 <?php
+namespace WebOfTalent\ClearRequirements;
 
 class RequirementsClearerTest extends SapphireTest {
 	public function testClearAllRequirements() {
