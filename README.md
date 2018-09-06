@@ -22,12 +22,12 @@
 * Gordon Anderson (Nickname: nontgor)
 	<gordon.b.anderson@gmail.com>
 
-##Introduction
+## Introduction
 
 This module allows clearing of CSS and JS files from a template using a YML config file.  Use this
 if you wish to manually combine and compress JS and CSS files.
  
-##Documentation
+## Documentation
 ### YML File
 The YML config file, which can be named arbitrarily, simply consists of a list of JS and CSS
 files that are to be cleared.  Note that a unique ID can also be provided, this is the only
@@ -38,7 +38,7 @@ way to clear custom scripts.
 Name: jakayanrides-clear-requirements
 After: clear-requirements-extensions
 ---
-RequirementsClearer:
+WebOfTalent\ClearRequirements\RequirementsClearer:
   JavaScript:
     - framework/thirdparty/jquery/jquery.js
     - framework/thirdparty/jquery-validate/lib/jquery.form.js
@@ -66,8 +66,14 @@ If this functionality is desired add this to your template prior to including Ja
 $ClearAllRequirements
 ```
 
-##Requirements
-* SilverStripe 3.1
+## Requirements
+* SilverStripe 3.x, 4.x
+
+## Install
+### SS4
+```
+composer require 'weboftalent/clearrequirements:^4'
+```
 
 ##TODO
 * Tests
