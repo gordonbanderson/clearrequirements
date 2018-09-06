@@ -1,7 +1,6 @@
 ---
 Name: clear-requirements-extensions
-After: 'framework/*','cms/*'
 ---
 Page_Controller:
   extensions:
-    ['RequirementsClearer']
+    ['WebOfTalent\ClearRequirements\RequirementsClearer']
