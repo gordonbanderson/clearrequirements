@@ -1,20 +1,4 @@
-# Mappable
-[![Build Status](https://travis-ci.org/gordonbanderson/clearrequirements.svg?branch=master)](https://travis-ci.org/gordonbanderson/clearrequirements)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/badges/build.png?b=master)](https://scrutinizer-ci.com/g/gordonbanderson/clearrequirements/build-status/master)
-[![codecov.io](https://codecov.io/github/gordonbanderson/clearrequirements/coverage.svg?branch=master)](https://codecov.io/github/gordonbanderson/clearrequirements?branch=master)
-
-[![Latest Stable Version](https://poser.pugx.org/weboftalent/clearrequirements/version)](https://packagist.org/packages/weboftalent/clearrequirements)
-[![Latest Unstable Version](https://poser.pugx.org/weboftalent/clearrequirements/v/unstable)](//packagist.org/packages/weboftalent/clearrequirements)
-[![Total Downloads](https://poser.pugx.org/weboftalent/clearrequirements/downloads)](https://packagist.org/packages/weboftalent/clearrequirements)
-[![License](https://poser.pugx.org/weboftalent/clearrequirements/license)](https://packagist.org/packages/weboftalent/clearrequirements)
-[![Monthly Downloads](https://poser.pugx.org/weboftalent/clearrequirements/d/monthly)](https://packagist.org/packages/weboftalent/clearrequirements)
-[![Daily Downloads](https://poser.pugx.org/weboftalent/clearrequirements/d/daily)](https://packagist.org/packages/weboftalent/clearrequirements)
-
-[![Dependency Status](https://www.versioneye.com/php/weboftalent:clearrequirements/badge.svg)](https://www.versioneye.com/php/weboftalent:clearrequirements)
-[![Reference Status](https://www.versioneye.com/php/weboftalent:clearrequirements/reference_badge.svg?style=flat)](https://www.versioneye.com/php/weboftalent:clearrequirements/references)
-
+# Clear Requirements
 ![codecov.io](https://codecov.io/github/gordonbanderson/clearrequirements/branch.svg?branch=master)
 
 ## Maintainers
