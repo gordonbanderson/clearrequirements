@@ -1,5 +1,4 @@
 # Clear Requirements
-![codecov.io](https://codecov.io/github/gordonbanderson/clearrequirements/branch.svg?branch=master)
 
 ## Maintainers
 
