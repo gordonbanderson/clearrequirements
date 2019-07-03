@@ -50,7 +50,7 @@ $ClearAllRequirements
 ```
 
 ## Requirements
-* SilverStripe 3.x, 4.x
+* SilverStripe 3,4
 
 ## Install
 ### SS4
@@ -63,5 +63,5 @@ composer require 'weboftalent/clearrequirements'
 composer require 'weboftalent/clearrequirements:^1'
 ```
 
-##TODO
+## TODO
 * Tests
