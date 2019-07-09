@@ -1,7 +1,7 @@
 {
 	"name": "weboftalent/clearrequirements",
 	"description": "Remove all requirements with a single template call and start template afresh",
-	"type": "silverstripe-module",
+	"type": "silverstripe-vendormodule",
 	"keywords": [
 		"silverstripe",
 		"templates",
